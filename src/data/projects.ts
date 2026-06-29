@@ -14,7 +14,7 @@ export const projects = [
     tags: ["UI", "Components", "App Design"],
   },
   {
-    title: "Design System",
+    title: "Design System Library",
     description:
       "A growing collection of typography, spacing, cards, buttons, and interface patterns.",
     href: "#",
